@@ -16,7 +16,7 @@ namespace Bohemka.Core.UI.Pages
 			this.Content = new Label { 
 				HorizontalOptions = LayoutOptions.CenterAndExpand,
 				VerticalOptions = LayoutOptions.CenterAndExpand,
-				Text = "Loading"
+				Text = "Loading ..."
 			};
 
 			Init ();
